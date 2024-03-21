@@ -1,8 +1,8 @@
 import re
-import chardet
-import pandas as pd
 import streamlit as st
+import pandas as pd
 import matplotlib.pyplot as plt
+import chardet
 import os
 
 # Widget para cargar archivo y obtener la ruta de la carpeta
